@@ -18,6 +18,5 @@
 - 👯 I’m looking to collaborate on data sciences project research, or even art things!
 - 🤔 I’m looking for help with network and/or cybersecurity
 - 💬 Ask me about everything
-- 📫 How to reach me: 
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Joukamachi no Dandelion is the best anime
