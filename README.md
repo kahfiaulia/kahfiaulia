@@ -1,11 +1,11 @@
 ## 👋 Welcome to My Profile! 👋
-- 🔭 I’m currently working at Universitas Bumi Persada as medical informatics lecturer.
+- 🔭 I’m currently working at Universitas Bumi Persada as Medical Informatics study programme lecturer
 - 🌱 I’m currently learning how to create more expressive GitHub profile!
 - 👯 I’m looking to collaborate on data sciences project research, or even art things!
 - 🤔 I’m looking for help with network and/or cybersecurity
-- 💬 Ask me about everything
+- 💬 Ask me about computer vision topics
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: Joukamachi no Dandelion is the best anime
+- ⚡ Fun fact: Choujin Sentai Jetman is the best Sentai series
   
 ## ❤️️ Mini Art Gallery ❤️
 <div align="center">
@@ -15,7 +15,6 @@
 </div>
 
 ## ⭐ Social Media ⭐
-
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/446326587844067328) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:auliamuhammadkahfi@gmail.com?subject=Hello%20Kahfi,%20From%20Github) &nbsp;
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/kahfiaulia39/) &nbsp;
