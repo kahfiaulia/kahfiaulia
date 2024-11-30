@@ -5,7 +5,6 @@
 - 🤔 I’m looking for help with network and/or cybersecurity
 - 💬 Ask me about computer vision topics
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: Choujin Sentai Jetman is the best Sentai series
   
 ## ❤️️ Mini Art Gallery ❤️
 <div align="center">
@@ -35,3 +34,8 @@
 ![SQLite](https://skillicons.dev/icons?i=sqlite)
 ![Tensorflow](https://skillicons.dev/icons?i=tensorflow)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
+
+## ⚡ Fun Facts ⚡
+- Joukamachi no Dandelion is the best anime
+- Choujin Sentai Jetman is the best Sentai series
+- My theme song in Juudai no Teema from Yu-Gi-Oh! GX
