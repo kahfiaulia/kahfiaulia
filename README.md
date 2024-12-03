@@ -35,7 +35,7 @@
 ![Tensorflow](https://skillicons.dev/icons?i=tensorflow)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 
-## ⚡ Fun Facts ⚡
+## ⚡Fun Facts⚡
 - Joukamachi no Dandelion is the best anime
 - Choujin Sentai Jetman is the best Sentai series
 - My theme song in Juudai no Teema from Yu-Gi-Oh! GX
