@@ -23,19 +23,13 @@
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=3q8i26dlnvot4i3zx92fxp3yn)
 
 ## 💻 Tech Expertises/Interests 💻
-![Debian](https://skillicons.dev/icons?i=debian)
-![Django](https://skillicons.dev/icons?i=django)
-![Flask](https://skillicons.dev/icons?i=flask)
-![Git](https://skillicons.dev/icons?i=git)
-![NextJS](https://skillicons.dev/icons?i=nextjs)
-![OpenCV](https://skillicons.dev/icons?i=opencv)
-![Photoshop](https://skillicons.dev/icons?i=ps)
-![Python](https://skillicons.dev/icons?i=py)
-![SQLite](https://skillicons.dev/icons?i=sqlite)
-![Tensorflow](https://skillicons.dev/icons?i=tensorflow)
-![VSCode](https://skillicons.dev/icons?i=vscode)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=debian,django,flask,git,laravel,mysql,opencv,ps,py,tensorflow,vscode" />
+  </a>
+</p>
 
 ## ⚡Fun Facts⚡
 - Joukamachi no Dandelion is the best anime
 - Choujin Sentai Jetman is the best Sentai series
-- My theme song in Juudai no Teema from Yu-Gi-Oh! GX
+- My theme song is Juudai no Teema from Yu-Gi-Oh! GX
