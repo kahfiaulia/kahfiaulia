@@ -14,15 +14,37 @@
 </div>
 
 ## ⭐ Social Media ⭐
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/446326587844067328) &nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:auliamuhammadkahfi@gmail.com?subject=Hello%20Kahfi,%20From%20Github) &nbsp;
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/kahfiaulia39/) &nbsp;
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/muhammad-kahfi-aulia-a4404631a/?originalSubdomain=id)
+<p align="center">
+  <a href="https://discord.com/users/446326587844067328">
+    <img src="https://skillicons.dev/icons?i=discord" alt="Discord">
+  </a>
+  &nbsp;
+  <a href="mailto:auliamuhammadkahfi@gmail.com?subject=Hello%20Kahfi,%20From%20Github">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail">
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/kahfiaulia39/">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram">
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/muhammad-kahfi-aulia-a4404631a/?originalSubdomain=id">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
+  </a>
+</p>
 
 ## 🎵 Music 🎵
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=3q8i26dlnvot4i3zx92fxp3yn)
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=3q8i26dlnvot4i3zx92fxp3yn" alt="Spotify Recently Played">
+</p>
+
 
 ## 💻 Tech Expertises/Interests 💻
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=kahfiaulia&theme=tokyonight&show_icons=true" alt="Kahfi Aulia's GitHub stats">
+  </a>
+</p>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=debian,django,flask,git,laravel,mysql,opencv,ps,py,tensorflow,vscode" />
