@@ -1,4 +1,8 @@
 ## 👋 Welcome to My Profile! 👋
+<div align="center">
+<img width=50% src="https://github.com/kahfiaulia/kahfiaulia/blob/main/miss-kuroitsu-anime-happy.gif" />
+</div>
+
 - 🔭 I’m currently working at Universitas Bumi Persada as Medical Informatics study programme lecturer
 - 🌱 I’m currently learning how to create more expressive GitHub profile!
 - 👯 I’m looking to collaborate on data sciences project research, or even art things!
