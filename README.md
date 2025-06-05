@@ -3,12 +3,12 @@
 <img width=50% src="https://github.com/kahfiaulia/kahfiaulia/blob/main/miss-kuroitsu-anime-happy.gif" />
 </div>
 
-- 🔭 I’m currently working at Universitas Bumi Persada as Medical Informatics study programme lecturer
+- 🔭 I’m currently working at Universitas Bumi Persada as Medical Informatics study programme lecturer.
 - 🌱 I’m currently learning how to create more expressive GitHub profile!
 - 👯 I’m looking to collaborate on data sciences project research, or even art things!
-- 🤔 I’m looking for help with network and/or cybersecurity
-- 💬 Ask me about computer vision topics
-- 😄 Pronouns: He/him
+- 🤔 I’m looking for help with network and/or cybersecurity.
+- 💬 Ask me about computer vision topics.
+- 😄 Pronouns: He/him.
   
 ## ❤️️ Mini Art Gallery ❤️
 <div align="center">
@@ -42,11 +42,15 @@
 </p>
 
 
-## 💻 Tech Expertises/Interests 💻
+## 💻 Expertises/Interests 💻
 <p align="center">
   <a href="https://github.com/kahfiaulia/github-readme-stats">
     <img src="https://github-readme-stats-git-main-kahfi-aulias-projects.vercel.app/api?username=kahfiaulia&theme=tokyonight&show_icons=true" alt="Kahfi Aulia's GitHub stats">
   </a>
+</p>
+
+<p align="center">
+  <img src="https://duolingo-stats-card.vercel.app/api?username=kahfiaulia" alt="Duolingo Stats" />
 </p>
 
 <p align="center">
@@ -56,6 +60,6 @@
 </p>
 
 ## ⚡Fun Facts⚡
-- Joukamachi no Dandelion is the best anime
-- Choujin Sentai Jetman is the best Sentai series
-- My theme song is Juudai no Teema from Yu-Gi-Oh! GX
+- Joukamachi no Dandelion is the best anime.
+- Choujin Sentai Jetman is the best Sentai series.
+- My theme song is Juudai no Teema from Yu-Gi-Oh! GX.
