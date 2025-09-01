@@ -27,7 +27,7 @@
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail">
   </a>
   &nbsp;
-  <a href="https://www.instagram.com/kahfiaulia39/">
+  <a href="https://www.instagram.com/mk.aulia/">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram">
   </a>
   &nbsp;
