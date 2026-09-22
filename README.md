@@ -44,9 +44,7 @@
 
 ## 💻 Expertises/Interests 💻
 <p align="center">
-  <a href="https://github.com/kahfiaulia/github-stats-extended">
     <img src="https://github-stats-extended.vercel.app/api?username=kahfiaulia&show_icons=true&include_all_commits=true&theme=dark_github" alt="Kahfi Aulia's GitHub stats">
-  </a>
 </p>
 
 <p align="center">
